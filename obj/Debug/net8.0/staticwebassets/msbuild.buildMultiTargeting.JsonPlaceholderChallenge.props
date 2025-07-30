@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/JsonPlaceholderChallenge.props" />
+</Project>
